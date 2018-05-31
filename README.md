@@ -6,7 +6,7 @@ EasyFarm is a general purpose farming program for Final Fantasy XI. The program 
 
 ## Origin
 
-EasyFarm was originally developed for personal use, purely for farming items like beehive chips, which were used in crafting. Upon hearing a request on the FFEVO forums in 2012, the EasyFarm code was released on bitbucket, free to the public. This made the program one of the only free, available to use farmbot for Final Fantasy XI. 
+EasyFarm was originally developed for personal use, purely for farming items like beehive chips, which were used in crafting. Upon hearing a request on the FFEVO forums in 2012, the EasyFarm code was released on BitBucket, free to the public. This made the program one of the only free, available to use farmbot for Final Fantasy XI. 
 
 The core design of the program reflects this history, aiming to be as general purpose as possible, to reduce the maintainability that is required to keep this program working for years to come.
 
